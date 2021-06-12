@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 facebook_username:rpuuam
-github_username:aurumpro
+youtube_username:aurumpro
 
 # Build settings
 markdown: kramdown
